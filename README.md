@@ -1,2 +1,2 @@
 # skocko-asm
-Skolski projekat
+Skolski projekat iz racunarskih sisteme
