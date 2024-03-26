@@ -1,0 +1,2 @@
+# skocko-asm
+Skolski projekat
